@@ -1,0 +1,164 @@
+{
+	"student record":[
+		
+		{
+			"firstName" : "Faruk",
+			"lastName" :"Batur",
+			"address" :[
+			{
+				"street" : "Queen St",
+				"city" :"Toronto",
+				"state" :"ON"
+			},
+			{
+				"street" : "Queen St",
+				"city" :"Toronto",
+				"state" :"ON"
+			}
+			],
+			"Scores":[
+			{"subject":"Web Tec", "marks":"70"},
+			{"subject":"Database", "marks":"80"},
+			{"subject":"Mobile Development", "marks":"85"},
+			{"subject":"ASP.NET", "marks":"80"},
+			{"subject":"Java EE", "marks":"75"}
+			],
+			"phoneNo":900000000
+			
+		},
+		{
+			"firstName" : "Harpeet",
+			"lastName" :"Kaur",
+			"address" :[
+			{
+				"street" : "Queen St",
+				"city" :"Toronto",
+				"state" :"ON"
+			},
+			{
+				"street" : "Queen St",
+				"city" :"Toronto",
+				"state" :"ON"
+			}],
+			"Scores":[
+			{"subject":"Web Tec", "marks":"70"},
+			{"subject":"Database", "marks":"62"},
+			{"subject":"Mobile Development", "marks":"60"},
+			{"subject":"ASP.NET", "marks":"90"},
+			{"subject":"Java EE", "marks":"65"}
+			],
+			
+			"phoneNo":900000000
+			
+		},
+		{
+			"firstName" : "Monica Ranjan",
+			"lastName" :"Dayal",
+			"address" :
+			[
+			{
+				"street" : "Queen St",
+				"city" :"Toronto",
+				"state" :"ON"
+			},
+			{
+				"street" : "Queen St",
+				"city" :"Toronto",
+				"state" :"ON"
+			}
+			],
+			"Scores":[
+			{"subject":"Web Tec", "marks":"80"},
+			{"subject":"Database", "marks":"65"},
+			{"subject":"Mobile Development", "marks":"75"},
+			{"subject":"ASP.NET", "marks":"73"},
+			{"subject":"Java EE", "marks":"75"}
+			],
+			
+			"phoneNo":900000000
+			
+		},
+		{
+			"firstName" : "Shilpy",
+			"lastName" :"Nanda",
+			"address" :
+			[
+			{
+				"street" : "Queen St",
+				"city" :"Toronto",
+				"state" :"ON"
+			},
+			{
+				"street" : "Queen St",
+				"city" :"Toronto",
+				"state" :"ON"
+			}
+			],
+			"Scores":[
+			{"subject":"Web Tec", "marks":"68"},
+			{"subject":"Database", "marks":"86"},
+			{"subject":"Mobile Development", "marks":"75"},
+			{"subject":"ASP.NET", "marks":"85"},
+			{"subject":"Java EE", "marks":"86"}
+			],
+			
+			"phoneNo":900000000
+		},
+		{
+			"firstName" : "SumanDeep",
+			"lastName" :"Kaur",
+			"address" :
+			[
+			{
+				"street" : "Queen St",
+				"city" :"Toronto",
+				"state" :"ON"
+			},
+			{
+				"street" : "Queen St",
+				"city" :"Toronto",
+				"state" :"ON"
+			}
+			],
+			"Scores":[
+			{"subject":"Web Tec", "marks":"78"},
+			{"subject":"Database", "marks":"88"},
+			{"subject":"Mobile Development", "marks":"85"},
+			{"subject":"ASP.NET", "marks":"76"},
+			{"subject":"Java EE", "marks":"85"}
+			],
+				
+			"phoneNo":900000000
+			
+		},
+		{
+			"firstName" : "Sophiya",
+			"lastName" :"Maharjan",
+			"address" :
+			[
+			{
+				"street" : "Queen St",
+				"city" :"Toronto",
+				"state" :"ON"
+			},
+			{
+				"street" : "Queen St",
+				"city" :"Toronto",
+				"state" :"ON"
+			}
+			],
+			"Scores":[
+			{"subject":"Web Tec", "marks":"75"},
+			{"subject":"Database", "marks":"80"},
+			{"subject":"Mobile Development", "marks":"82"},
+			{"subject":"ASP.NET", "marks":"70"},
+			{"subject":"Java EE", "marks":"95"}
+			],
+			"phoneNo":900000000
+			
+		}
+	
+	]
+	
+
+}
